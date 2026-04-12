@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I'm Nanyachris
 
-<!--
-**Nanyachris/Nanyachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##From History to systems I'm a History Graduate (B.A. Hons) pivoting into the Digital Economy and Cybeersecurity. I believe that understanding the past is the best way to secure the future.
 
-Here are some ideas to get you started:
+## What I'm Doing Now
+**Cybersecurity Bootcmp:** Currently mastering network security, threat analysis, and digital forensics (Ask me about my recent 5/5 assignment! ).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2028 Goal
+Pursuing a Master's in **Digital Economy** in **Hangzou**, China, to bridge the gap between global trade and cybersecurity.
+
+## Tech Stack & Tools
+* **Security:** Network Scanning, Threat Intelligence
+* **Productivity:** Dell Latitude Enthusiast
+* **Language:** English (Native), Mandarin (Learning)
+
+------
+"The best way to predict the future is to secure it."
